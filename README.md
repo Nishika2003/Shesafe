@@ -1,4 +1,4 @@
 # Shesafe
-Women Security Application
-Has three urgency levels
-Empowers Women
+Women Security Application,
+it has three urgency levels.
+and the main motive is safety, security and empowerment of women.
